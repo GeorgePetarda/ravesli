@@ -1,0 +1,4 @@
+﻿  test6.4.cpp
+C:\Users\Roma\source\test6.4\test6.4\test6.4.cpp(261,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Roma\source\test6.4\test6.4\test6.4.cpp(167,1): warning C4715: getCardValue: значение возвращается не при всех путях выполнения
+  test6.4.vcxproj -> C:\Users\Roma\source\test6.4\x64\Debug\test6.4.exe
