@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roma\\source\\test7.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BECB8-DD5B-4552-AA80-B379A55E67D0}|test7.3\\test7.3.vcxproj|C:\\Users\\Roma\\source\\test7.3\\test7.3\\test7.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA1BECB8-DD5B-4552-AA80-B379A55E67D0}|test7.3\\test7.3.vcxproj|solutionrelative:test7.3\\test7.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test7.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Roma\\source\\test7.3\\test7.3\\test7.3.cpp",
+              "RelativeDocumentMoniker": "test7.3\\test7.3.cpp",
+              "ToolTip": "C:\\Users\\Roma\\source\\test7.3\\test7.3\\test7.3.cpp",
+              "RelativeToolTip": "test7.3\\test7.3.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T15:44:11.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
