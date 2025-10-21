@@ -1,5 +1,5 @@
 ﻿  test5.2.cpp
-C:\Users\Roma\source\test5.2\test5.2\test5.2.cpp(92,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Roma\source\test5.2\test5.2\test5.2.cpp(79,1): warning C4715: checkInput: значение возвращается не при всех путях выполнения
-C:\Users\Roma\source\test5.2\test5.2\test5.2.cpp(35,1): warning C4715: check: значение возвращается не при всех путях выполнения
-  test5.2.vcxproj -> C:\Users\Roma\source\test5.2\x64\Debug\test5.2.exe
+C:\Users\Roma\source\ravesli\test5.2\test5.2\test5.2.cpp(92,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Roma\source\ravesli\test5.2\test5.2\test5.2.cpp(35,1): warning C4715: check: значение возвращается не при всех путях выполнения
+C:\Users\Roma\source\ravesli\test5.2\test5.2\test5.2.cpp(79,1): warning C4715: checkInput: значение возвращается не при всех путях выполнения
+  test5.2.vcxproj -> C:\Users\Roma\source\ravesli\test5.2\x64\Debug\test5.2.exe

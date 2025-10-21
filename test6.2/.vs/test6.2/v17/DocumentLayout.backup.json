@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Roma\\source\\test6.2\\",
+  "WorkspaceRootPath": "C:\\Users\\Roma\\source\\ravesli\\test6.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BD2BA24-72D5-4642-8CBC-6FAB7A052EBC}|test6.2\\test6.2.vcxproj|C:\\Users\\Roma\\source\\test6.2\\test6.2\\test6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BD2BA24-72D5-4642-8CBC-6FAB7A052EBC}|test6.2\\test6.2.vcxproj|C:\\Users\\Roma\\source\\ravesli\\test6.2\\test6.2\\test6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BD2BA24-72D5-4642-8CBC-6FAB7A052EBC}|test6.2\\test6.2.vcxproj|solutionrelative:test6.2\\test6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test6.2.cpp",
-              "DocumentMoniker": "C:\\Users\\Roma\\source\\test6.2\\test6.2\\test6.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Roma\\source\\ravesli\\test6.2\\test6.2\\test6.2.cpp",
               "RelativeDocumentMoniker": "test6.2\\test6.2.cpp",
-              "ToolTip": "C:\\Users\\Roma\\source\\test6.2\\test6.2\\test6.2.cpp*",
-              "RelativeToolTip": "test6.2\\test6.2.cpp*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Roma\\source\\ravesli\\test6.2\\test6.2\\test6.2.cpp",
+              "RelativeToolTip": "test6.2\\test6.2.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-16T09:57:41.554Z",
               "EditorCaption": ""

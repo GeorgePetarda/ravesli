@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Roma\\source\\test6.3\\",
+  "WorkspaceRootPath": "C:\\Users\\Roma\\source\\ravesli\\test6.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B6F6478-D622-47D5-8022-3C2928BA228A}|test6.3\\test6.3.vcxproj|C:\\Users\\Roma\\source\\test6.3\\test6.3\\test6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4B6F6478-D622-47D5-8022-3C2928BA228A}|test6.3\\test6.3.vcxproj|C:\\Users\\Roma\\source\\ravesli\\test6.3\\test6.3\\test6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4B6F6478-D622-47D5-8022-3C2928BA228A}|test6.3\\test6.3.vcxproj|solutionrelative:test6.3\\test6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test6.3.cpp",
-              "DocumentMoniker": "C:\\Users\\Roma\\source\\test6.3\\test6.3\\test6.3.cpp",
+              "DocumentMoniker": "C:\\Users\\Roma\\source\\ravesli\\test6.3\\test6.3\\test6.3.cpp",
               "RelativeDocumentMoniker": "test6.3\\test6.3.cpp",
-              "ToolTip": "C:\\Users\\Roma\\source\\test6.3\\test6.3\\test6.3.cpp",
+              "ToolTip": "C:\\Users\\Roma\\source\\ravesli\\test6.3\\test6.3\\test6.3.cpp",
               "RelativeToolTip": "test6.3\\test6.3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
